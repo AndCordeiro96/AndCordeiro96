@@ -19,7 +19,7 @@
 
 </div><br/>
 
-  • I'm a software developer, engineer, and enthusiast of technology. I'm a lover of the sea and nature and have a good wine taste.
+  • I'm a software developer, engineer, and enthusiast of technology. I'm a lover of the sea and nature and have a good wine taster and a great coffee taster.
   
   • Hey, you can do the day of a software developer very happy, only buy me a coffee, so tell the best story of your life, or let's go just have a good talk and share moments. See you soon! ☕
   
