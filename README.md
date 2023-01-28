@@ -23,7 +23,5 @@
   
   • Hey, you can do the day of a software developer very happy, only buy me a coffee, so tell the best story of your life, or let's go just have a good talk and share moments. See you soon! ☕
   
-  <div style="display: inline_block">
-    <img align="center" alt="buy me a coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</div><br/>
+  [![Buy me a Coffe](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/cordeiro)
   
