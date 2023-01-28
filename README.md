@@ -6,7 +6,7 @@
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-cordeiro-souza/)
  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1O5jgL7yFTooR2CHEsbv0Q)
 
- ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndCordeiro96&show_icons=true&theme=dracula)
+ ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCordeiro&show_icons=true&theme=dracula)
 
  ## Technologies 
  <div style="display: inline_block">
