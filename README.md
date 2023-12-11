@@ -7,6 +7,7 @@
  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1O5jgL7yFTooR2CHEsbv0Q)
 
  ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCordeiro&show_icons=true&theme=dracula)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCordeiro&layout=compact)-->
 
  ## Technologies 
  <div style="display: inline_block">
